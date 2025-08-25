@@ -1,7 +1,7 @@
 # 🇻🇳 DVHCVN - Tra cứu sáp nhập đơn vị hành chính Việt Nam 2025
 
 <p align="center">
-  <img src="https://dvhcvn.phamhongduc.com/logo.png" alt="DVHCVN Logo" width="120">
+  <img src="images/logo.png" alt="DVHCVN Logo" width="120">
 </p>
 
 <p align="center">
